@@ -1,5 +1,5 @@
 ### Merhaba
-Merhaba, ben Yağmur Kaftar. Sakarya Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Ağırlıklı olarak back-end ve veri alanlarında kendimi geliştirmekteyim. Öğrenmeye ve bir proje üzerinde araştırarak çalışmaya açığım.💬 Daha yolun başında olduğumun ve bu yolda oldukça her şeyi biliyorum diyemeyeceğimin bilincinde olarak kendimi yetiştirmeyi amaçlıyorum.
+Hello, I am Yağmur Kaftar. I am a 2nd year student of Sakarya University Computer Engineering. I am mainly developing myself in back-end and data areas. I am open to learning and working on a project by researching 💬 I aim to educate myself with the awareness that I am at the beginning of the road and that I cannot say that I know everything on this road.
 
 📫 kaftaryagmur@gmail.com
 
